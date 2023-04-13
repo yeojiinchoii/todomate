@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeojiinchoii/todomate/static/css/main.fb66fb82.css",
+    "main.js": "/yeojiinchoii/todomate/static/js/main.1ce8e65b.js",
+    "static/js/787.a9d0689b.chunk.js": "/yeojiinchoii/todomate/static/js/787.a9d0689b.chunk.js",
+    "index.html": "/yeojiinchoii/todomate/index.html",
+    "main.fb66fb82.css.map": "/yeojiinchoii/todomate/static/css/main.fb66fb82.css.map",
+    "main.1ce8e65b.js.map": "/yeojiinchoii/todomate/static/js/main.1ce8e65b.js.map",
+    "787.a9d0689b.chunk.js.map": "/yeojiinchoii/todomate/static/js/787.a9d0689b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb66fb82.css",
+    "static/js/main.1ce8e65b.js"
+  ]
+}
