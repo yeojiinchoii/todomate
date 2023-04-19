@@ -12,11 +12,11 @@ const UpdateForm = ({ updateData, changeHolder, updateTask, cancelUpdate }) => {
           <div className="col-auto">
             <button
               onClick={updateTask}
-              className="btn btn-lg mr-20"
+              className="btn btn-lg btn-update"
             >Update</button>
             <button
               onClick={cancelUpdate}
-              className="btn btn-lg"
+              className="btn btn-lg btn-cancel"
             >Cancel</button>
           </div>
         </div>
