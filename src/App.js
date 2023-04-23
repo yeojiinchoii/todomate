@@ -105,6 +105,7 @@ function App() {
       setUpdateData={setUpdateData}
       deleteTask={deleteTask}
     />  
+    
   <br /><br />
     <div class="nav-wrap">
       <nav class="bottom-nav">
