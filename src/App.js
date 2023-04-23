@@ -105,6 +105,16 @@ function App() {
       setUpdateData={setUpdateData}
       deleteTask={deleteTask}
     />  
+  <br /><br />
+    <div class="nav-wrap">
+      <nav class="bottom-nav">
+        <p class="menu-default">Home</p>
+        <p class="menu-active">Task</p>
+        <p class="menu-default">Category</p>
+        <p class="menu-default">Setting</p>
+      </nav>
+    </div>
+    <br /><br />
 
     </div>
   );
