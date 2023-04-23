@@ -13,7 +13,7 @@ body {
   margin-bottom: 20px;
   padding: 10px 140px 10px 15px;
   text-align: left;
-  font-size: 22px;
+  font-size: 18px;
   position: relative;
 }
 
@@ -24,15 +24,11 @@ body {
 
 .taskNumber {
   color: #1F2229;
-  /* border: 1px solid #1F2229; */
   border-radius: 50%;
   width: 14px;
-  /* height: 26px; */
   display: flex;
   text-align: center;
   font-size: 14px;
-  /* margin-right: 8px;
-  margin-left: 8px; */
   align-items: center;
   justify-content: center;
 }
@@ -167,8 +163,32 @@ body {
   
 }
 
-/* .btn-add:disabled {
-  color: #fff;
-  background: #00C8B8;
-  border-color: #00C8B8;
-} */
+.nav-wrap {
+  position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:30px;
+}
+
+.bottom-nav {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.menu-active {
+  color: #00C8B8;
+  height: 40px;
+  padding: 0 0.8rem;
+  font-weight: 500;
+  border-bottom: 4px solid #00C8B8;
+}
+
+.menu-default {
+  color: #ffffff;
+  height: 40px;
+  padding: 0 0.8rem;
+  font-weight: 500;
+  border-bottom: 4px solid transparent;
+}
